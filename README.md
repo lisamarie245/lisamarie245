@@ -118,7 +118,7 @@ You can contact me -->
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20more%20reasons%20you%20have%20for%20achieving%20your%20goal%2C%20the%20more%20determined%20you%20will%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20more%20reasons%20you%20have%20for%20achieving%20your%20goal%2C%20the%20more%20determined%20you%20will%20become.&theme=dark&bg_color=0d1117&author_color=c3d1d9&accent_color=1f6feb">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 ---
@@ -147,22 +147,22 @@ You can contact me -->
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/font-awesome/font-awesome-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 
 <br />
 
 #### :computer: Cibersecurity utilities:
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-</p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/boum_tails/boum_tails-ar21.svg"></code>
 </p>
 
 
