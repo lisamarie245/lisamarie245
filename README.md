@@ -34,9 +34,9 @@ You can contact me -->
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/JEKmnjR.jpeg">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/JEKmnjR.jpeg">
+  <img align="left" alt="GIF description" src="https://i.imgur.com/JEKmnjR.jpegf">
 </picture>
 <br />
 
@@ -118,11 +118,11 @@ You can contact me -->
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20more%20reasons%20you%20have%20for%20achieving%20your%20goal%2C%20the%20more%20determined%20you%20will%20become.&theme=dark&bg_color=0d1117&author_color=c3d1d9&accent_color=1f6feb">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20more%20reasons%20you%20have%20for%20achieving%20your%20goal%2C%20the%20more%20determined%20you%20will%20become.&theme=light&bg_color=0d1117&author_color=c3d1d9&accent_color=1f6feb">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 ---
-
+<br />
 <!-- GitHub stats -->
 <b>⚡ My Dev Statistics</b>
 
