@@ -35,7 +35,6 @@ You can contact me -->
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/JEKmnjR.jpeg">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/JEKmnjR.jpeg">
   <img align="left" alt="GIF description" src="https://i.imgur.com/JEKmnjR.jpegf">
 </picture>
 <br />
