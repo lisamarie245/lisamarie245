@@ -8,7 +8,7 @@
 <h3>Glad to see you here!</h3>
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?lisamarie245=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?lisamarie245=ffflabs)](https://github.com/lisamarie245/github-readme-stats)
 <!-- GitHub stats -->
 <b>⚡ My Dev Statistics</b>
 
