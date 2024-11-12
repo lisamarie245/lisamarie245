@@ -32,8 +32,11 @@ Here you can contact me -->
 
 <!-- Languages and Tools Section -->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-
-<img src="https://i.imgur.com/ZUok5QS.gif" alt="GIF description" width="300" align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Amazing.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Amazing.gif">
+  <img align="left" alt="GIF description" src="./Amazing.giff">
+</picture>
 
 <br />
 
