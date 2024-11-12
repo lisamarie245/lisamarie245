@@ -31,13 +31,12 @@ Here you can contact me -->
 ---
 
 <!-- Languages and Tools Section -->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ </h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Amazing.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Amazing.gif">
   <img align="left" alt="GIF description" src="./Amazing.giff">
 </picture>
-
 <br />
 
 <h3 align="left">Current Learning</h3>
@@ -47,6 +46,8 @@ Here you can contact me -->
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
 
+<br />
+<br />
 <br />
 <br />
 
