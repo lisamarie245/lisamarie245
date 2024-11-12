@@ -19,7 +19,7 @@
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://lisamarie245.github.io) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -88,15 +88,15 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=lisamarie245&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        <a href="https://github.com/lisamarie245">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=lisamarie245&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -107,7 +107,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lisamarie245&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -129,9 +129,9 @@
 
 <p>
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmhmubin&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisamarie245&show_icons=true&hide_border=true" />
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmhmubin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisamarie245&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
