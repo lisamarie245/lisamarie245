@@ -48,6 +48,9 @@ Here you can contact me -->
 </ul>
 
 <br />
+<br />
+
+-------
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs currently working on... 🏆</h2>
