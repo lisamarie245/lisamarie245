@@ -38,8 +38,8 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Deepening my knowledge as Full Stack Developer and Blockchain.</li>
+  <li>Exploring new techniques with ethical hacking. </li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
 <br />
@@ -84,8 +84,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=lisamarie245&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/lisamarie245/Wonderful-Projects-With-4geeks">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=lisamarie245&repo=Wonderful-Projects-With-4geeks&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Wonderful-Projects" />
         </a>
       </p>
     </td>
