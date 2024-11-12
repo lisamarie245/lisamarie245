@@ -121,12 +121,6 @@ You can contact me -->
     <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20more%20reasons%20you%20have%20for%20achieving%20your%20goal%2C%20the%20more%20determined%20you%20will%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lisamarie245&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="lisamarie245" style="padding-right:20px;" />
-</p>
-
 ---
 
 <!-- GitHub stats -->
