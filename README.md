@@ -33,7 +33,7 @@ Here you can contact me -->
 <!-- Languages and Tools Section -->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ </h2> 
 <picture>
-  <img align="left" alt="GIF description" src="https://i.imgur.com/JEKmnjR.jpeg" width="50%">
+<img src="https://i.imgur.com/ZUok5QS.gif" alt="Descripción del GIF" width="300" align="left">
 </picture>
 <br />
 
