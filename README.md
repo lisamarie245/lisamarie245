@@ -4,7 +4,7 @@
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 <h3>Glad to see you here!</h3>
 
-You can contact me -->
+Here you can contact me -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lisamarie245)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https:www.linkedin.com/in/lisa-marie-moreno)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:finanzasmoreno24@gmail.com)
@@ -30,23 +30,21 @@ You can contact me -->
 
 ---
 
-
-<!--Languages and Tools Section-->       
+<!-- Languages and Tools Section -->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/JEKmnjR.jpeg">
-  <img align="left" alt="GIF description" src="https://i.imgur.com/JEKmnjR.jpegf">
+  <img align="left" alt="GIF description" src="https://i.imgur.com/JEKmnjR.jpeg" width="50%">
 </picture>
 <br />
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
   <li>Deepening my knowledge as Full Stack Developer and Blockchain.</li>
-  <li>Exploring new techniques with ethical hacking. </li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Exploring new techniques with ethical hacking.</li>
+  <li>Improving my skills in cloud computing
 </ul>
 <br />
-
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs currently working on... 🏆</h2>
