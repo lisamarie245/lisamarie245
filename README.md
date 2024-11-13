@@ -26,6 +26,8 @@ Here you can contact me -->
 - 💻 Visit my [Portfolio](https://lisamarie245.github.io) for more details about my working projects.
 <!--End Intro-->
 
+ <br /> 
+ 
 <!--Profile Count Badge-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lisamarie245&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="lisamarie245" style="padding-right:20px;" />
@@ -55,11 +57,9 @@ Here you can contact me -->
 <br />
 <br />
 <br />
-<br />
-<br />
 
 
--------
+----------------------------------------------------------------
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs currently working on... 🏆</h2>
@@ -104,11 +104,10 @@ Here you can contact me -->
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=lisamarie245&repo=Wonderful-Projects-With-4geeks&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Wonderful-Projects" />
         </a>
       </p>
-    </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/lisamarie245">
+        <a href="https://github.com/Kiran1689">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=lisamarie245&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
