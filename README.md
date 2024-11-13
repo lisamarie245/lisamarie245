@@ -155,10 +155,10 @@ Here you can contact me
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisamarie245&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 <!-- --------- -->
-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br />
 <br />
-
+<!-- --------- -->
 #### :computer: Programming languages and tools:
 <p>
 
