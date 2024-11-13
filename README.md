@@ -50,6 +50,11 @@ Here you can contact me -->
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+
 
 -------
 
@@ -127,6 +132,8 @@ Here you can contact me -->
 <!--ENDS_HERE_QUOTE_CARD-->
 ---
 <br />
+<br />
+
 <!-- GitHub stats -->
 <b>⚡ My Dev Statistics</b>
 
