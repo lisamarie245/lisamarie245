@@ -55,9 +55,8 @@ Here you can contact me
 </ul>
 
 <br />
-<br />
 
-#### :muscle: Things I am challenging myself with:
+<h3 align="center">#### :muscle: Things I am challenging myself with:</h3>
 <ul align="left">
   <li>Trying with all I have to do the #100daysofcode.</li>
   <li>Coding at least 4 hours a day</li>
@@ -65,9 +64,6 @@ Here you can contact me
   <li> Trying to get certificated in cibersecurity</li>
 </ul>
 
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
