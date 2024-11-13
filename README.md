@@ -48,10 +48,21 @@ Here you can contact me
 <br />
 
 <h3 align="center">Current Learning</h3>
-<ul align="center">
+<ul align="left">
   <li>Deepening my knowledge as Full Stack Developer and Blockchain.</li>
   <li>Exploring new techniques with ethical hacking.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+
+<br />
+<br />
+
+#### :muscle: Things I am challenging myself with:
+<ul align="left">
+  <li>Trying with all I have to do the #100daysofcode.</li>
+  <li>Coding at least 4 hours a day</li>
+  <li> Exercising 4 days a week</li>
+  <li> Trying to get certificated in cibersecurity</li>
 </ul>
 
 <br />
@@ -60,7 +71,7 @@ Here you can contact me
 <br />
 <br />
 <br />
-
+<br />
 
 ----------------------------------------------------------------
 <!--Trophies Section-->   
