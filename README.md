@@ -104,14 +104,14 @@ Here you can contact me -->
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=lisamarie245&repo=Wonderful-Projects-With-4geeks&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Wonderful-Projects" />
         </a>
       </p>
-    <td width="50%">
+  <!--  <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/lisamarie245">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=lisamarie245&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
-    </td>
+    </td>--> 
   </tr>
 </table>
 <br />
