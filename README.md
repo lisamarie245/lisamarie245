@@ -4,7 +4,7 @@
 -->
 
 <!-- welcome message -->
-<h2>Hi there Glad to see you here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Hi there!  Glad to see you here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 Here you can contact me 
  <br /> 
@@ -44,9 +44,11 @@ Here you can contact me
   <img align="left" alt="GIF description" src="./Amazing.giff">
 </picture>
 <br />
+<br />
+<br />
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
+<h3 align="center">Current Learning</h3>
+<ul align="center">
   <li>Deepening my knowledge as Full Stack Developer and Blockchain.</li>
   <li>Exploring new techniques with ethical hacking.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
@@ -61,7 +63,6 @@ Here you can contact me
 
 
 ----------------------------------------------------------------
-
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs currently working on... 🏆</h2>
 <p align="center">
