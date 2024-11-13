@@ -147,7 +147,7 @@ Here you can contact me
 
 <!-- GitHub stats -->
  <b>⚡ My Dev Statistics</b>
-
+ <br />
  <p align="center">
 <!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisamarie245&show_icons=true&hide_border=true" />
@@ -155,6 +155,9 @@ Here you can contact me
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisamarie245&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 <!-- --------- -->
+-----------
+<br />
+<br />
 
 #### :computer: Programming languages and tools:
 <p>
