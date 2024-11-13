@@ -146,9 +146,9 @@ Here you can contact me
 <br />
 
 <!-- GitHub stats -->
-<b>⚡ My Dev Statistics</b>
-
-<p>
+<p align="center">
+ <b>⚡ My Dev Statistics</b>
+ 
 <!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisamarie245&show_icons=true&hide_border=true" />
 
