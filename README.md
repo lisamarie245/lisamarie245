@@ -146,12 +146,11 @@ Here you can contact me
 <br />
 
 <!-- GitHub stats -->
-<p align="center">
  <b>⚡ My Dev Statistics</b>
- 
+
+ <p align="center">
 <!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisamarie245&show_icons=true&hide_border=true" />
-
 <!-- Most Used Languages -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisamarie245&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
