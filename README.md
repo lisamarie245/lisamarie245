@@ -11,7 +11,7 @@ Here you can contact me -->
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Lisa Marie! 
-*Cibersecurity technician & (Developer / Programmer)*
+*Cibersecurity technician & Developer / Programmer*
 <br /> 
 
 <!--Start Intro-->               
@@ -19,12 +19,12 @@ Here you can contact me -->
 
 - ✨ Permanent student of life :D
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Worked for US government and the first cibersecurity company of Dominican Republic (at that time)
-- 💻 Visit my [Portfolio](https://lisamarie245.github.io) for more details about me.
+- 💁‍♂️ Worked for US government as CSIRT and the first cibersecurity company of Dominican Republic as Soc Analyst. 
+- 💻 Visit my [Portfolio](https://lisamarie245.github.io) for more details about my working projects.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=lisamarie245&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="lisamarie245" style="padding-right:20px;" />
 </p>
 
