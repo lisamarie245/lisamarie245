@@ -47,7 +47,7 @@ Here you can contact me
 <br />
 <br />
 
-<h3 align="center">Current Learning</h3>
+<h3 align="left">Current Learning</h3>
 <ul align="left">
   <li>Deepening my knowledge as Full Stack Developer and Blockchain.</li>
   <li>Exploring new techniques with ethical hacking.</li>
@@ -56,7 +56,7 @@ Here you can contact me
 
 <br />
 
-<h3 align="center">:muscle: Things I am challenging myself with:</h3>
+<h3 align="left">:muscle: Things I am challenging myself with:</h3>
 <ul align="left">
   <li>Trying with all I have to do the #100daysofcode.</li>
   <li>Coding at least 4 hours a day</li>
